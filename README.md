@@ -5,4 +5,4 @@ NIM : 20.01.53.0031
 
 Mata Kuliah : Text Mining A1
 
-Scrapping data lokasi restoran dari 10 data restoran yang menghasilkan 10 review dari tiap restoran, sehingga totalnya ada 100 Reviews. Dilanjutkan proses membuat program Preprocessing (Case Folding, Tokenizing, Stopword Removal (Filtering), Stemming)
+Scrapping data lokasi tempat wisata dari 10 data tempat wisata yang menghasilkan 10 review dari tiap tempat wisata, sehingga totalnya ada 100 Reviews. Dilanjutkan proses membuat program Preprocessing (Case Folding, Tokenizing, Stopword Removal (Filtering), Stemming)
